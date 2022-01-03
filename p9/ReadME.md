@@ -1,7 +1,7 @@
 # React Coding Interview Challenge 9
 View [end product here](https://8scpt.csb.app/)!
 
-### Specification
+## Specification
 Write a component to render a searchable list of random users. You can fetch the users by issuing a get request to `https://randomuser.me/api?results=number` where *number* is the number of users you want to receive. Randomuser.me is a free, no auth-token API for development. When initially writing your component, query for only a couple of users, as your requests may be blocked if you accidentally issue too many for several hundred users. 
 
 [Here](https://github.com/Zmwang622/React-Coding-Challenges/blob/main/p9/data.json) is an example of the data return from a request for one result.
